@@ -11,4 +11,4 @@ I used HTML, CSS and JS.
 ### Why did I do this project?
 This project is to showcase my skills and to always look for room for improvment in order to better myself in the near future. 
 
-Click the link [here]() to view it.
+Click the link [here](https://shan-establishments.github.io/myPortfolio/) to view it.
